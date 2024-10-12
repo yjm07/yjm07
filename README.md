@@ -3,8 +3,8 @@
 사람들에게 친숙한 서비스를 만들기 위해 협력을 통해 최선의 해결책을 도출하는 데 큰 보람을 느낍니다.
 
 ## :chart_with_upwards_trend: Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjm07)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjm07)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjm07&hide=stars&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjm07&hide=html,css&exclude_repo=pymodi&layout=compact&theme=dark)
 
 ## :hammer_and_wrench: Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
