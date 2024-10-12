@@ -1,4 +1,25 @@
-## Hi there 👋
+## 😎 About Me
+사람들이 좋아하고 사람 냄새가 나는 프로그램을 만들고자 하는 개발자 연제민입니다.<br>
+사람들에게 친숙한 서비스를 만들기 위해 협력을 통해 최선의 해결책을 도출하는 데 큰 보람을 느낍니다.
+
+## :chart_with_upwards_trend: Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjm07)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjm07)
+
+## :hammer_and_wrench: Technologies
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **yjm07/yjm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
