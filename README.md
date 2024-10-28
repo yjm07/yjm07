@@ -4,7 +4,7 @@
 
 ## :chart_with_upwards_trend: Github Stats
 ![GitHub stats](https://github-readme-stats-delta-two-89.vercel.app/api?username=yjm07&hide=stars&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html&layout=compact&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html,scss,css&layout=compact&hide_border=true&theme=dark)
 
 ## :hammer_and_wrench: Technologies
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
