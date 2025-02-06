@@ -1,6 +1,6 @@
 ## 😎 About Me
-사람들이 좋아하고 사람 냄새가 나는 프로그램을 만들고자 하는 개발자 연제민입니다.<br>
-사람들에게 친숙한 서비스를 만들기 위해 협력을 통해 최선의 해결책을 도출하는 데 큰 보람을 느낍니다.
+사람들이 좋아하고 따뜻한 경험을 줄 수 있는 서비스를 만들고자 하는 개발자 연제민입니다.<br>
+사용자 경험을 위해 더 안정적이고 신뢰성 있는 시스템을 구축하려고 노력합니다.
 
 ## :chart_with_upwards_trend: Github Stats
 [![GitHub stats-Light](https://github-readme-stats-delta-two-89.vercel.app/api?username=yjm07&hide=stars&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/yjm07/github-readme-stats#gh-light-mode-only)
