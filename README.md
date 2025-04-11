@@ -5,8 +5,8 @@
 ## :chart_with_upwards_trend: Github Stats
 [![GitHub stats-Light](https://github-readme-stats-delta-two-89.vercel.app/api?username=yjm07&hide=stars&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/yjm07/github-readme-stats#gh-light-mode-only)
 [![GitHub stats-Dark](https://github-readme-stats-delta-two-89.vercel.app/api?username=yjm07&hide=stars&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/yjm07/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html,scss,css&layout=compact&hide_border=true&theme=default)](https://github.com/yjm07/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html,scss,css&layout=compact&hide_border=true&theme=dark)](https://github.com/yjm07/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html,scss,css&layout=compact&hide_border=true&theme=default&exclude_repo=github-readme-stats,productive-box,bulletproof-nodejs,TypeScript-Node-Starter,Luxrobo)](https://github.com/yjm07/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats-delta-two-89.vercel.app/api/top-langs/?username=yjm07&hide=html,scss,css&layout=compact&hide_border=true&theme=dark&exclude_repo=github-readme-stats,productive-box,bulletproof-nodejs,TypeScript-Node-Starter,Luxrobo)](https://github.com/yjm07/github-readme-stats#gh-dark-mode-only)
 
 ## :hammer_and_wrench: Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
